@@ -1,0 +1,9 @@
+---
+Language: Cpp
+Standard: c++20
+
+LineEnding: LF
+IndentWidth: 4
+QualifierAlignment: Right
+AlwaysBreakAfterReturnType: TopLevel
+...
